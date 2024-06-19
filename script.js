@@ -1,5 +1,5 @@
 const apiKey = "930ed1f00f1d47ad066712f2a916b12b";
-const apiUrl = "https://api.openweathermap.org/data/2.5/weather?q=england&appid=930ed1f00f1d47ad066712f2a916b12b&units=metric";
+const apiUrl = "https://api.openweathermap.org/data/2.5/weather?q=&appid=&units=metric";
 
 const searchBox = document.querySelector(".search input");
 const searchBtn = document.querySelector(".search button");
